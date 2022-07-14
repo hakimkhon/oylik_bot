@@ -43,13 +43,17 @@ def start(update, context):
     return STATE_REGION
 
 def calendar_tuday(update, context):
+    # update.message.delete()
     update.message.reply_text('Bugungi kun')
 def sotish(update, context):
+    # update.message.delete()
     update.message.reply_text('Sotish!')
 def sotib_olish(update, context):
+    # update.message.delete()
     update.message.reply_text('Sotib olish!')
 def qaytarish(update, context):
     update.message.reply_text('Qaytarish')
+    # update.message.delete()
 
 def inline_callback(update, context):
     query = update.callback_query
