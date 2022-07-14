@@ -1,0 +1,72 @@
+{
+    'message': {
+        'new_chat_members': [], 
+        'caption_entities': [], 
+        'group_chat_created': False, 
+        'date': 1657779427, 
+        'reply_markup': {
+            'inline_keyboard': [
+                [
+                    {
+                        'text': 'Namangan', 
+                        'callback_data': 'region_1'
+                    }, 
+                    {
+                        'text': 'Toshkent', 
+                        'callback_data': 'region_2'
+                    }, 
+                    {
+                        'text': 'Xorazm', 
+                        'callback_data': 'region_3'
+                    }
+                ], 
+                [
+                    {
+                        'text': 'Andijon', 
+                        'callback_data': 'region_4'
+                    }, 
+                    {
+                        'text': "Farg'ona", 
+                        'callback_data': 'region_5'
+                    }, 
+                    {
+                        'text': 'Buxoro', 
+                        'callback_data': 'region_6'
+                    }
+                ]
+            ]
+        }, 
+        'channel_chat_created': False, 
+        'message_id': 39, 
+        'supergroup_chat_created': False, 
+        'photo': [], 
+        'text': 'Assalomu alaykumkum! Hakimxon Sharifxonov siz qaysi xududda yashaysiz?', 
+        'delete_chat_photo': False, 
+        'entities': [], 
+        'chat': {
+            'type': 'private', 
+            'first_name': 'Hakimxon', 
+            'username': 'Abduhamidxonovich', 
+            'id': 702927325, 
+            'last_name': 'Sharifxonov'
+        }, 
+        'new_chat_photo': [], 
+        'from': {
+            'is_bot': True, 
+            'first_name': 'oylik_chasys_bot', 
+            'id': 5512280575, 
+            'username': 'OylikChasysBot'
+        }
+    }, 
+    'data': 'region_1', 
+    'id': '3019049876232219842', 
+    'chat_instance': '8380013256126670913', 
+    'from': {
+        'language_code': 'ru', 
+        'is_bot': False, 
+        'first_name': 'Hakimxon', 
+        'id': 702927325, 
+        'username': 'Abduhamidxonovich',
+        'last_name': 'Sharifxonov'
+    }
+}
